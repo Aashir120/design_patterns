@@ -1,0 +1,15 @@
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\bin\Debug\net7.0\Adapter.exe
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\bin\Debug\net7.0\Adapter.deps.json
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\bin\Debug\net7.0\Adapter.dll
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\bin\Debug\net7.0\Adapter.pdb
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\Adapter.dll
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\Adapter.pdb
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\Adapter\obj\Debug\net7.0\ref\Adapter.dll

@@ -1,0 +1,15 @@
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\bin\Debug\net7.0\proxy.exe
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\bin\Debug\net7.0\proxy.deps.json
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\bin\Debug\net7.0\proxy.runtimeconfig.json
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\bin\Debug\net7.0\proxy.dll
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\bin\Debug\net7.0\proxy.pdb
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\proxy.csproj.AssemblyReference.cache
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\proxy.AssemblyInfoInputs.cache
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\proxy.AssemblyInfo.cs
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\proxy.csproj.CoreCompileInputs.cache
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\proxy.dll
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\refint\proxy.dll
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\proxy.pdb
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\proxy.genruntimeconfig.cache
+C:\Users\InfoEtiquetteAppDev\Downloads\patterns\proxy\obj\Debug\net7.0\ref\proxy.dll
